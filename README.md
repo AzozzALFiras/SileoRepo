@@ -1,7 +1,7 @@
 # SileoRepo
 Support Source for Sileo Store 
 
-# Go to setings repo
+# Go to settings sources
 
 ### searching for Packages File Compression
 
@@ -409,8 +409,7 @@ if ($index == 0) {
 # Add the following code
 
 ```php
-
-		<input  type="text" style="width: 400px;" name="SileoDepiction" value="https://yourwebiste/sileo.php?pid=<?php echo $request_id;?>"/>
+<input  type="text" style="width: 400px;" name="SileoDepiction" value="https://yourwebiste/sileo.php?pid=<?php echo $request_id;?>"/>
 
 
 ```
